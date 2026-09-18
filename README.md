@@ -22,9 +22,8 @@ macOS may ask you to confirm the first launch (System Settings → Privacy & Sec
 
 | | |
 |---|---|
-| ⌘L | Launcher — URL, search, open tabs, commands. Pins, spaces, and groups sit above the list. |
-| ⌘K | Same launcher, empty field |
-| ⌘S | Larger session board (drag to reorder) |
+| ⌘L | Address bar — URL, search, commands, bookmarks, history |
+| ⌘S | Session board — pins, spaces, groups, open tabs |
 | ⌘T / ⇧⌘N | New tab / new private tab |
 | ⌘W / ⇧⌘T | Close tab / reopen closed tab |
 | ⌘[ ⌘] | Back / forward |
@@ -35,7 +34,7 @@ macOS may ask you to confirm the first launch (System Settings → Privacy & Sec
 | ⌃⇥ | Tab switcher |
 | ⌘, | Settings |
 
-Esc or a click outside closes the launcher. Clicking a tab or Return on a URL does too. Closing or pinning a tab leaves it open.
+Esc or a click outside closes ⌘L. Return on a URL or command goes there.
 
 http(s) links from Mail, Notes, or `open -a Orza https://example.com` open as a tab.
 
